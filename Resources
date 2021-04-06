@@ -1,0 +1,30 @@
+ML Resources:
+Review of Machine Learning:
+What is needed?
+Know what a Neural Network is, how it is implemented and trained
+Convolutional Neural Networks
+Relevant Resources:
+Neural Networks and Deep Learning – Coursera Course
+Convolutional Neural Networks – Coursera Course
+Find assignments here (solved) https://github.com/amanchadha/coursera-deep-learning-specialization
+
+
+Notes:
+https://cs231n.github.io/classification/ Read till before Nearest Neighbor Classifier
+https://cs231n.github.io/neural-networks-1/, https://cs231n.github.io/neural-networks-2/, https://cs231n.github.io/neural-networks-3/ 
+https://cs231n.github.io/convolutional-networks/, https://cs231n.github.io/transfer-learning/ 
+Tensorflow.js
+
+Complete Steps 3-5 of TensorFlow.js Transfer Learning Image Classifier
+MobileNet Papers (Optional Reading)
+MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+Searching for MobileNetV3
+
+Web-Dev Resources:
+Introduction to JS: https://grasshopper.app/
+Learn-js www.learn-js.org (probably use this)
+Drag and Drop file upload: https://www.dropzonejs.com/
+Bootstrap 5: https://getbootstrap.com/
+jQuery: https://www.w3schools.com/jquery/
+Masonry: https://masonry.desandro.com/
+Infinite Scroll: https://infinite-scroll.com/
